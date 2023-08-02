@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vs/
+Backend/Database/obj/
+Backend/Database/bin/
+Backend/DatabaseManager/obj/
+Backend/DatabaseManager/bin/
+Backend/RestApi/obj/
+Backend/RestApi/bin/
+
